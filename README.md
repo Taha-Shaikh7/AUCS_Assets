@@ -86,7 +86,7 @@ Reach out to me: +923220313753
 <h2>🛡️ Fall-25 Cyber Security Assets Maintainer</h2>
 
 <div>
-  <strong>Abdul Rehman · <code>CYB-F25-1176</code></strong>
+  <strong>Abdul Rahman · <code>CYB-F25-1176</code></strong>
 </div>
 
 <p>
@@ -97,21 +97,8 @@ Reach out to me: +923220313753
   <a href="https://github.com/0xAbdiiii">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile">
   </a>
-  <a href="https://www.linkedin.com/in/abdul-rahman-soomro-4a1a7b387/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile">
-  </a>
-  <a href="https://instagram.com/the_abdi.s">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Profile">
-  </a>
   <a href="https://wa.me/923042963790">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Contact">
   </a>
-</div>
-
-<div>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Developer">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++ Programmer">
-  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux User">
-  <img src="https://img.shields.io/badge/Bash_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash Scripting">
-  <img src="https://img.shields.io/badge/Cyber_Security-2B579A?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Cyber Security Enthusiast">
+  <img src="https://img.shields.io/badge/Cyber_Security-2B579A?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Cyber Security Department">
 </div>
